@@ -1,10 +1,12 @@
 # Revisão Ad-hoc: Qualidade de Código em Frameworks Multiplataforma (Flutter vs. React Native)
 
-1. Nome do aluno 1
-1. Nome do aluno 2 (se houver)
+1. Davi Aguilar Nunes Oliveira
 
-* Nome do orientador de conteúdo
-* Nome do orientador acadêmico
+* leiton Silva Tavares
+* Danilo de Quadros Maia Filho
+* João Pedro Oliveira Batisteli
+* Leonardo Vilela Cardoso
+* (Nome do orientador acadêmico)
 
 ## Introdução
 
